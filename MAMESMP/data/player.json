@@ -1,0 +1,5 @@
+[
+  { "name": "AliCraft", "kills": 120, "money": 5000, "playtime": "12h" },
+  { "name": "MinaMC", "kills": 85, "money": 7200, "playtime": "15h" },
+  { "name": "Shadow", "kills": 200, "money": 9500, "playtime": "20h" }
+]
